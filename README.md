@@ -16,4 +16,4 @@ Understanding behavior at the atomic level:
 
 * Thermal motion: When heat or cold is applied, atoms vibrate and move in specific ways. Simulation allows you to visualize and quantify these motions.
 * Interactions: You can study how atoms interact with each other and how these interactions are affected by temperature.
-* Macroscopic properties: From behavior at the atomic level, you can infer macroscopic properties such as thermal conductivity, heat capacity, and thermal expansion.
+* Macroscopic properties: From behavior at the atomic level, you can infer macroscopic properties.
