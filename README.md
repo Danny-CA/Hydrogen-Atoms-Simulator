@@ -3,7 +3,7 @@
 ## Members and Contact
 * Erika Monserrat Correa Hernández | erikacorreahdezenes@gmail.com
 * Daniel Camilo  | camilodani065@gmail.com
-* Humberto Cortez | tejedordealas@gmail.com
+* Humberto Cortez | tejedordealas@gmail.com 
 ## License
 GNU General Public License v3.0
 ## Affilation
