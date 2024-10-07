@@ -21,4 +21,4 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 
 * Observe atomic interactions: Evaluate how atoms interact with each other and how these interactions are modified by temperature variations.
 
-* Infer macroscopic properties: Derive observable macroscopic properties, such as internal energy or thermal diffusion, from the behavior of atoms in the simulated system.
+
