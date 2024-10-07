@@ -8,12 +8,17 @@ GNU General Public License v3.0
 ## Affilation
 Final project for the 2025-1 Modeling and Simulation class, designed and developed at the Universidad Nacional Autonoma de México(UNAM), at the Escuela Nacional de Estudios Superiores (ENES Morelia). This project is carried out by students of the Bachelor's Degree in Technologies for Information in the Sciences.
 ## Introduction
-### Project Description
-This project aims to simulate the behavior of hydrogen atoms when subjected to heat or cold, using Molecular Dynamics (MD) methods. The simulation tracks the trajectory of the atoms under controlled temperature conditions, observing how they move over time.
+
+This project aims to simulate the behavior of hydrogen atoms when subjected to heat or cold, using Molecular Dynamics (MD) methods. To achieve accurate simulation, the transmission model will be initialized using Maxwell's equations to correctly describe the electromagnetic interactions influencing the dynamics of atoms at the microscopic level. Additionally, the simulation environment will be configured in ECLive, where a gas model will be employed to efficiently represent thermal conditions.
+
+The simulation will track the trajectory of the atoms under controlled temperature conditions, observing how they move and how interactions between them vary depending on temperature changes. This study will not only visualize atomic-level thermal motions but also infer relevant macroscopic properties from the observed behavior.
+
+## General Objective
+To simulate and analyze the behavior of hydrogen atoms under the influence of thermal variations, employing Molecular Dynamics and Maxwell's equations in a computational simulation environment using ECLive.
 ## Particular Objetives
 
-Understanding behavior at the atomic level:
+* Study atomic-level thermal motion: Analyze how heat and cold affect the vibration and displacement of hydrogen atoms during the simulation.
 
-* Thermal motion: When heat or cold is applied, atoms vibrate and move in specific ways. Simulation allows you to visualize and quantify these motions.
-* Interactions: You can study how atoms interact with each other and how these interactions are affected by temperature.
-* Macroscopic properties: From behavior at the atomic level, you can infer macroscopic properties.
+* Observe atomic interactions: Evaluate how atoms interact with each other and how these interactions are modified by temperature variations.
+
+* Infer macroscopic properties: Derive observable macroscopic properties, such as internal energy or thermal diffusion, from the behavior of atoms in the simulated system.
