@@ -24,7 +24,7 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 
 ## Tools
 
-* C++ 23 for compilation
-* Python 3 for visualization
+* C++ for compilation
+* Python for visualization
 
 
