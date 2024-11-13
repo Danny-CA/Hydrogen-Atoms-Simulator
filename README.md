@@ -15,7 +15,7 @@ This project aims to simulate the behavior of hydrogen atoms when subjected to h
 The simulation will track the trajectory of the atoms under controlled temperature conditions, observing how they move and how interactions between them vary depending on temperature changes. This study will not only visualize atomic-level thermal motions but also infer relevant macroscopic properties from the observed behavior.
 
 ## General Objective
-To simulate and analyze the behavior of hydrogen atoms under the influence of thermal variations, employing Molecular Dynamics and Maxwell's equations in a computational simulation environment using ECLive.
+To simulate and analyze the behavior of hydrogen atoms under the influence of thermal variations, employing Molecular Dynamics and Maxwell's distribution in a computational simulation environment using ECLive.
 ## Particular Objetives
 
 * Study atomic-level thermal motion: Analyze how heat and cold affect the vibration and displacement of hydrogen atoms during the simulation.
