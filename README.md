@@ -25,12 +25,16 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 * Observe atomic interactions: Evaluate how atoms interact with each other and how these interactions are modified by temperature variations.
 ## Methodology
 
+
 ## Software tools
 
 * C++ for compilation
 * Python for visualization
 * matplotlib version 
 * numpy version
+## Results
+(<img width="876" alt="implementación" src="https://github.com/user-attachments/assets/e49ece34-c0e0-4afc-9a0f-c4525013be09">
+)
 
 ## References
 https://ui.adsabs.harvard.edu
