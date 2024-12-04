@@ -29,7 +29,7 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 ## Software tools
 
 * C++ for compilation
-* Python for visualization
+* Python for visualization 3.11
 * matplotlib version 
 * numpy version
 ## Results
