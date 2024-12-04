@@ -1,4 +1,4 @@
-## Hydrogen Atoms Simulator: Behavior Under Heat and Cold
+## N-Body Simulation: Hydrogen Atoms Simulator: Behavior Under Heat and Cold
 This is the final project of the subject Modeling and Simulation of the [<ins>Escuela Nacional de Estudios Superiores UNAM campus Morelia </ins>](https://www.enesmorelia.unam.mx).
 This project is carried out by students of the Bachelor's Degree in Technologies for Information in the Sciences.
 
