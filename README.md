@@ -30,8 +30,8 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 
 * C++ for compilation
 * Python for visualization 3.11
-* matplotlib version 
-* numpy version
+* matplotlib version 3.9.2
+* numpy version 2.1.1
 ## Results
 <img width="876" alt="implementación" src="https://github.com/user-attachments/assets/e49ece34-c0e0-4afc-9a0f-c4525013be09">
 
