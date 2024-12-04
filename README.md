@@ -1,4 +1,6 @@
 ## Hydrogen Atoms Simulator: Behavior Under Heat and Cold
+This is the final project of the subject Modeling and Simulation of the | Escuela Nacional de Estudios Superiores UNAM campus Morelia.
+
 
 ## Members and Contact
 * Erika Monserrat Correa Hernández | erikacorreahdezenes@gmail.com
