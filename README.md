@@ -1,5 +1,6 @@
 ## Hydrogen Atoms Simulator: Behavior Under Heat and Cold
 This is the final project of the subject Modeling and Simulation of the [<ins>Escuela Nacional de Estudios Superiores UNAM campus Morelia </ins>](https://www.enesmorelia.unam.mx).
+This project is carried out by students of the Bachelor's Degree in Technologies for Information in the Sciences.
 
 ## Members and Contact
 * Erika Monserrat Correa Hernández | erikacorreahdezenes@gmail.com
@@ -8,8 +9,6 @@ This is the final project of the subject Modeling and Simulation of the [<ins>Es
 ## License
 This project is protected under the GNU Licence v3, please refer to the document in case of any doubt towards referencing and usage of this project.
 
-## Affilation
-Final project for the 2025-1 Modeling and Simulation class, designed and developed at the Universidad Nacional Autonoma de México(UNAM), at the Escuela Nacional de Estudios Superiores (ENES Morelia). This project is carried out by students of the Bachelor's Degree in Technologies for Information in the Sciences.
 ## Introduction
 
 This project aims to simulate the behavior of hydrogen atoms when subjected to heat or cold, using Molecular Dynamics (MD) methods. To achieve accurate simulation, the transmission model will be initialized using Maxwell's distribution to correctly describe the electromagnetic interactions influencing the dynamics of atoms at the microscopic level. Additionally, the simulation environment will be configured in ECLive, where a gas model will be employed to efficiently represent thermal conditions.
