@@ -30,9 +30,8 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 * C++ for compilation
 * Python for visualization
 * matplotlib version 
-*numpy version
-*pandas version
-*seaborn version
+* numpy version
+
 ## References
 https://ui.adsabs.harvard.edu
 
