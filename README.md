@@ -36,9 +36,14 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 *seaborn version
 ## References
 https://ui.adsabs.harvard.edu
+
 https://open.fing.edu.uy/courses/ft/
+
 https://open.fing.edu.uy/courses/metn-2023/
+
 https://open.fing.edu.uy/courses/mecn-2023/
+
 https://open.fing.edu.uy/courses/fm/
+
 
 
