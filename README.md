@@ -52,4 +52,6 @@ https://open.fing.edu.uy/courses/fm/
 
 https://adsabs.harvard.edu/full/1993BASI...21....1B
 
+https://en.wikipedia.org/wiki/Maxwell–Boltzmann_distribution
+
 
