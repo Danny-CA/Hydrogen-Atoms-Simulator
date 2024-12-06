@@ -21,7 +21,7 @@ Due to these issues, there aren't analytical solutions to the N-Body problem. Le
 ## General Objective
 To simulate and analyze the behavior of hydrogen atoms under the influence of thermal variations, employing Molecular Dynamics and Maxwell's distribution in a computational simulation environment using ECLive.
 ## Particular Objetives
-
+* Particle modeling: n-body problem. 
 * Study atomic-level thermal motion: Analyze how heat and cold affect the vibration and displacement of hydrogen atoms during the simulation.
 
 * Observe atomic interactions: Evaluate how atoms interact with each other and how these interactions are modified by temperature variations.
