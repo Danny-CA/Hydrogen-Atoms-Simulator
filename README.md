@@ -58,6 +58,9 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 ## Results Simulated
 <img width="876" alt="implementación" src="https://github.com/user-attachments/assets/e49ece34-c0e0-4afc-9a0f-c4525013be09">
 
+![Simulación de átomos](examples/simulation.gif)
+
+
 ## Simulation Video
 
 [![Watch a video](https://img.youtube.com/vi/yqLzYJh7v50/maxresdefault.jpg)](https://youtu.be/yqLzYJh7v50?si=j0R-9n6avMizQ8j4)
