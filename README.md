@@ -31,8 +31,10 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 * mathematical concept
   ### equations with which we develop the model
 * mathematical model
+   ###calculus
 * solution to the model 
 * implementation
+  ###set of initial conditions
 
 ## Software tools
 
