@@ -1,4 +1,4 @@
-## N-Body Simulation: Hydrogen Atoms Simulator: Behavior Under Heat and Cold
+## Hydrogen Atoms Simulator
 This is the final project of the subject Modeling and Simulation of the [<ins>Escuela Nacional de Estudios Superiores UNAM campus Morelia </ins>](https://www.enesmorelia.unam.mx).
 This project is carried out by students of the Bachelor's Degree in Technologies for Information in the Sciences.
 
@@ -7,11 +7,11 @@ This project is carried out by students of the Bachelor's Degree in Technologies
 * Daniel Camilo  | camilodani065@gmail.com
 * Humberto Cortez | tejedordealas@gmail.com 
 ## License
-This project is protected under the GNU Licence v3, please refer to the document in case of any doubt towards referencing and usage of this project.
+This project is protected under the MIT Licence, please refer to the document in case of any doubt towards referencing and usage of this project.
 
 ## Introduction
 
-This project aims to simulate the behavior of hydrogen atoms when subjected to heat or cold, using Molecular Dynamics (MD) methods. To achieve accurate simulation, the transmission model will be initialized using Maxwell's distribution to correctly describe the electromagnetic interactions influencing the dynamics of atoms at the microscopic level. Additionally, the simulation environment will be configured in ECLive, where a gas model will be employed to efficiently represent thermal conditions.
+This project aims to simulate the behavior of hydrogen atoms when subjected to heat or cold, using Molecular Dynamics (MD) methods. To achieve accurate simulation, the transmission model will be initialized using Maxwell's distribution to correctly describe the interactions influencing the dynamics of atoms at the microscopic level. Additionally, the simulation environment will be configured in ECLive, where a gas model will be employed to efficiently represent thermal conditions.
 
 The simulation will track the trajectory of the atoms under controlled temperature conditions, observing how they move and how interactions between them vary depending on temperature changes. This study will not only visualize atomic-level thermal motions but also infer relevant macroscopic properties from the observed behavior.
 ## Justification
@@ -22,43 +22,40 @@ Due to these issues, there aren't analytical solutions to the N-Body problem. Le
 To simulate and analyze the behavior of hydrogen atoms under the influence of thermal variations, employing Molecular Dynamics and Maxwell's distribution in a computational simulation environment using ECLive.
 ## Particular Objetives
 * Particle modeling: n-body problem. 
-* Study atomic-level thermal motion: Analyze how heat and cold affect the vibration and displacement of hydrogen atoms during the simulation.
+* Study atomic-level thermal motion: Analyze how heat and cold affect the displacement of hydrogen atoms during the simulation.
 
 * Observe atomic interactions: Evaluate how atoms interact with each other and how these interactions are modified by temperature variations.
 ## Methodology
-* physical concept
-  ### REFERENCE FRAMEWORK
-* mathematical concept
-  ### equations with which we develop the model
-* mathematical model
-   ### calculus
-* solution to the model 
-* implementation
-  ### set of initial conditions
+# N-body model:
 
+* Represent each atom as a particle in 2D space.
+
+* Consider interactions between particles based on different temperatures.
+
+# Molecular Dynamics (MD) methods:
+
+* Generate initial velocities based on the Maxwell-Boltzmann distribution.
+
+# Visualization:
+
+* Plot the particle trajectories.
+* Represent the histogram of velocities and frequencies. Compare it with the theoretical Maxwell-Boltzmann distribution.
 ## Software tools
 
 * C++ 
 * Python 3.11
 * matplotlib version 3.9.2
 * numpy version 2.1.1
-## Results
+  
+## Results Simulated
 <img width="876" alt="implementación" src="https://github.com/user-attachments/assets/e49ece34-c0e0-4afc-9a0f-c4525013be09">
 
-<img width="1049" alt="graficacion" src="https://github.com/user-attachments/assets/e96d8a53-a1ae-4ce9-b9c9-559642d4b6d1">
+## Results Final
+
+[![Watch video](https://img.youtube.com/vi/yqLzYJh7v50/maxresdefault.jpg)](https://youtu.be/yqLzYJh7v50)
+
 
 ## References
-https://ui.adsabs.harvard.edu
-
-https://open.fing.edu.uy/courses/ft/
-
-https://open.fing.edu.uy/courses/metn-2023/
-
-https://open.fing.edu.uy/courses/mecn-2023/
-
-https://open.fing.edu.uy/courses/fm/
-
-https://adsabs.harvard.edu/full/1993BASI...21....1B
 
 https://en.wikipedia.org/wiki/Maxwell–Boltzmann_distribution
 
