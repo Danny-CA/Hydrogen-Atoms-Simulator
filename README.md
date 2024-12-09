@@ -26,17 +26,17 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 
 * Observe atomic interactions: Evaluate how atoms interact with each other and how these interactions are modified by temperature variations.
 ## Methodology
-# N-body model:
+### N-body model:
 
 * Represent each atom as a particle in 2D space.
 
 * Consider interactions between particles based on different temperatures.
 
-# Molecular Dynamics (MD) methods:
+### Molecular Dynamics (MD) methods:
 
 * Generate initial velocities based on the Maxwell-Boltzmann distribution.
 
-# Visualization:
+### Visualization:
 
 * Plot the particle trajectories.
 * Represent the histogram of velocities and frequencies. Compare it with the theoretical Maxwell-Boltzmann distribution.
@@ -52,7 +52,10 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 
 ## Results Final
 
-[![Watch video](https://img.youtube.com/vi/yqLzYJh7v50/maxresdefault.jpg)](https://youtu.be/yqLzYJh7v50)
+## Video de la Simulación
+
+[![Watch a video](https://img.youtube.com/vi/yqLzYJh7v50/maxresdefault.jpg)](https://youtu.be/yqLzYJh7v50?si=j0R-9n6avMizQ8j4)
+
 
 
 ## References
