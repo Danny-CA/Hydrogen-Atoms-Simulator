@@ -19,7 +19,7 @@ The simulation will track the trajectory of the atoms under controlled temperatu
 The N-body problem is essential for understanding systems where multiple particles interact under mutual forces. Due to its complexity, it lacks general analytical solutions, requiring numerical methods to obtain approximate results. This project aims to simulate these interactions and visualize them intuitively, contributing to the practical understanding of these systems and their scientific
 
 ## General Objective
-To simulate and analyze the behavior of hydrogen atoms under the influence of thermal variations, employing Molecular Dynamics and Maxwell's distribution in a computational simulation environment using ECLive.
+To simulate and analyze the behavior of hydrogen atoms under the influence of thermal variations, employing Molecular Dynamics and Maxwell's distribution in a computational simulation environment.
 
 ## Particular Objetives
 * Particle modeling: n-body problem. 
