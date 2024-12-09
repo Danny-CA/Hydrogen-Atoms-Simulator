@@ -26,7 +26,11 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 
 * Observe atomic interactions: Evaluate how atoms interact with each other and how these interactions are modified by temperature variations.
 ## Methodology
-
+* physical concept
+* mathematical concept
+* mathematical model
+* solution to the model 
+* implementation
 
 ## Software tools
 
