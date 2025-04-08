@@ -58,12 +58,6 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 
 ![Simulación de átomos](examples/simulation.gif)
 
-
-## Simulation Video
-
-[![Watch a video](https://img.youtube.com/vi/yqLzYJh7v50/maxresdefault.jpg)](https://youtu.be/yqLzYJh7v50?si=j0R-9n6avMizQ8j4)
-
-
 ## References
 https://github.com/giccunam/transmission
 
