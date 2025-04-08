@@ -3,8 +3,8 @@ This is the final project of the subject Modeling and Simulation of the [<ins>Es
 This project is carried out by students of the Bachelor's Degree in Technologies for Information in the Sciences.
 
 ## Members and Contact
+* Carlos Daniel Camilo Aguilar | camilodani065@gmail.com
 * Erika Monserrat Correa Hernández | erikacorreahdezenes@gmail.com
-* Daniel Camilo  | camilodani065@gmail.com
 
 ## License
 This project is licensed under the MIT License. Please refer to the LICENSE document for more details regarding referencing and usage of this project.
