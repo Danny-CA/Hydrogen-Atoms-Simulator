@@ -26,18 +26,18 @@ To simulate and analyze the behavior of hydrogen atoms under the influence of th
 * Observe atomic interactions: Evaluate how atoms interact with each other and how these interactions are modified by temperature variations.
   
 ## Methodology
-  ### 1.- Initialization
+### 1.- Initialization
 * Define the initial parameters of the simulation, including the number of hydrogen atoms, their initial positions, and velocities based on the Maxwell-Boltzmann distribution.
 * Establish boundary conditions for the simulation environment.
 
-  ### 2.- Simulation Algorithm
+### 2.- Simulation Algorithm
 * Employ Molecular Dynamics (MD) to compute the time evolution of the system using numerical integration methods 
 
-  ### 3.- Data Collection
+### 3.- Data Collection
 * Record particle trajectories, velocities, and interactions at each simulation step.
 * Generate data outputs compatible with visualization scripts, such as view2D.dat.
 
-  ### 4.- Visualization and Analysis
+### 4.- Visualization and Analysis
 * Use Python scripts (e.g., view2D.py) to visualize the trajectories and velocity distributions of hydrogen atoms.
 * Analyze results to observe thermal motion patterns and validate them against theoretical Maxwell-Boltzmann distributions.
 
