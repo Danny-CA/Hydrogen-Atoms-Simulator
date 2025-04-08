@@ -5,7 +5,6 @@ This project is carried out by students of the Bachelor's Degree in Technologies
 ## Members and Contact
 * Erika Monserrat Correa Hernández | erikacorreahdezenes@gmail.com
 * Daniel Camilo  | camilodani065@gmail.com
-* Humberto Cortez | tejedordealas@gmail.com
 
 ## License
 This project is licensed under the MIT License. Please refer to the LICENSE document for more details regarding referencing and usage of this project.
